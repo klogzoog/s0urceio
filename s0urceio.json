@@ -1,0 +1,728 @@
+{
+   "e": [
+      {
+         "B": 1,
+         "C": "join"
+      },
+      {
+         "B": 2,
+         "C": "data"
+      },
+      {
+         "B": 3,
+         "C": "pass"
+      },
+      {
+         "B": 4,
+         "C": "system"
+      },
+      {
+         "B": 5,
+         "C": "temp"
+      },
+      {
+         "B": 6,
+         "C": "left"
+      },
+      {
+         "B": 7,
+         "C": "bit"
+      },
+      {
+         "B": 8,
+         "C": "global"
+      },
+      {
+         "B": 9,
+         "C": "anon"
+      },
+      {
+         "B": 10,
+         "C": "handle"
+      },
+      {
+         "B": 11,
+         "C": "part"
+      },
+      {
+         "B": 12,
+         "C": "delete"
+      },
+      {
+         "B": 13,
+         "C": "val"
+      },
+      {
+         "B": 14,
+         "C": "signal"
+      },
+      {
+         "B": 15,
+         "C": "point"
+      },
+      {
+         "B": 16,
+         "C": "reset"
+      },
+      {
+         "B": 17,
+         "C": "call"
+      },
+      {
+         "B": 18,
+         "C": "xml"
+      },
+      {
+         "B": 19,
+         "C": "count"
+      },
+      {
+         "B": 20,
+         "C": "dir"
+      },
+      {
+         "B": 21,
+         "C": "poly"
+      },
+      {
+         "B": 22,
+         "C": "write"
+      },
+      {
+         "B": 23,
+         "C": "num"
+      },
+      {
+         "B": 24,
+         "C": "get"
+      },
+      {
+         "B": 25,
+         "C": "host"
+      },
+      {
+         "B": 26,
+         "C": "root"
+      },
+      {
+         "B": 27,
+         "C": "url"
+      },
+      {
+         "B": 28,
+         "C": "send"
+      },
+      {
+         "B": 29,
+         "C": "client"
+      },
+      {
+         "B": 30,
+         "C": "log"
+      },
+      {
+         "B": 31,
+         "C": "file"
+      },
+      {
+         "B": 32,
+         "C": "http"
+      },
+      {
+         "B": 33,
+         "C": "stat"
+      },
+      {
+         "B": 34,
+         "C": "list"
+      },
+      {
+         "B": 35,
+         "C": "ghost"
+      },
+      {
+         "B": 36,
+         "C": "add"
+      },
+      {
+         "B": 37,
+         "C": "remove"
+      },
+      {
+         "B": 38,
+         "C": "ping"
+      },
+      {
+         "B": 39,
+         "C": "size"
+      },
+      {
+         "B": 40,
+         "C": "upload"
+      },
+      {
+         "B": 41,
+         "C": "add"
+      },
+      {
+         "B": 42,
+         "C": "bytes"
+      },
+      {
+         "B": 43,
+         "C": "com"
+      },
+      {
+         "B": 44,
+         "C": "status"
+      },
+      {
+         "B": 45,
+         "C": "domain"
+      },
+      {
+         "B": 46,
+         "C": "type"
+      },
+      {
+         "B": 47,
+         "C": "socket"
+      },
+      {
+         "B": 48,
+         "C": "load"
+      },
+      {
+         "B": 49,
+         "C": "buffer"
+      },
+      {
+         "B": 50,
+         "C": "key"
+      },
+      {
+         "B": 51,
+         "C": "right"
+      },
+      {
+         "B": 52,
+         "C": "user"
+      },
+      {
+         "B": 53,
+         "C": "info"
+      },
+      {
+         "B": 54,
+         "C": "net"
+      },
+      {
+         "B": 55,
+         "C": "init"
+      },
+      {
+         "B": 56,
+         "C": "event"
+      },
+      {
+         "B": 57,
+         "C": "set"
+      },
+      {
+         "B": 58,
+         "C": "intel"
+      },
+      {
+         "B": 59,
+         "C": "port"
+      },
+      {
+         "B": 60,
+         "C": "emit"
+      },
+      {
+         "B": 61,
+         "C": "loop"
+      }
+   ],
+   "m": [
+      {
+         "B": 1,
+         "C": "gridheight"
+      },
+      {
+         "B": 2,
+         "C": "findpackage"
+      },
+      {
+         "B": 3,
+         "C": "getfile"
+      },
+      {
+         "B": 4,
+         "C": "module"
+      },
+      {
+         "B": 5,
+         "C": "hostserver"
+      },
+      {
+         "B": 6,
+         "C": "response"
+      },
+      {
+         "B": 7,
+         "C": "responder"
+      },
+      {
+         "B": 8,
+         "C": "download"
+      },
+      {
+         "B": 9,
+         "C": "decryptfile"
+      },
+      {
+         "B": 10,
+         "C": "newserver"
+      },
+      {
+         "B": 11,
+         "C": "generate"
+      },
+      {
+         "B": 12,
+         "C": "setping"
+      },
+      {
+         "B": 13,
+         "C": "newline"
+      },
+      {
+         "B": 14,
+         "C": "datatype"
+      },
+      {
+         "B": 15,
+         "C": "encrypt"
+      },
+      {
+         "B": 16,
+         "C": "userid"
+      },
+      {
+         "B": 17,
+         "C": "gridwidth"
+      },
+      {
+         "B": 18,
+         "C": "vector"
+      },
+      {
+         "B": 19,
+         "C": "setcookie"
+      },
+      {
+         "B": 20,
+         "C": "accountname"
+      },
+      {
+         "B": 21,
+         "C": "loadbytes"
+      },
+      {
+         "B": 22,
+         "C": "password"
+      },
+      {
+         "B": 23,
+         "C": "thread"
+      },
+      {
+         "B": 24,
+         "C": "length"
+      },
+      {
+         "B": 25,
+         "C": "encode"
+      },
+      {
+         "B": 26,
+         "C": "filedir"
+      },
+      {
+         "B": 27,
+         "C": "getping"
+      },
+      {
+         "B": 28,
+         "C": "eventtype"
+      },
+      {
+         "B": 29,
+         "C": "threat"
+      },
+      {
+         "B": 30,
+         "C": "urlcheck"
+      },
+      {
+         "B": 31,
+         "C": "newhost"
+      },
+      {
+         "B": 32,
+         "C": "config"
+      },
+      {
+         "B": 33,
+         "C": "username"
+      },
+      {
+         "B": 34,
+         "C": "channel"
+      },
+      {
+         "B": 35,
+         "C": "setstats"
+      },
+      {
+         "B": 36,
+         "C": "getkey"
+      },
+      {
+         "B": 37,
+         "C": "constructor"
+      },
+      {
+         "B": 38,
+         "C": "syscall"
+      },
+      {
+         "B": 39,
+         "C": "export"
+      },
+      {
+         "B": 40,
+         "C": "disconnect"
+      },
+      {
+         "B": 41,
+         "C": "userport"
+      },
+      {
+         "B": 42,
+         "C": "setnewid"
+      },
+      {
+         "B": 43,
+         "C": "number"
+      },
+      {
+         "B": 44,
+         "C": "hexagon"
+      },
+      {
+         "B": 45,
+         "C": "package"
+      },
+      {
+         "B": 46,
+         "C": "setport"
+      },
+      {
+         "B": 47,
+         "C": "server"
+      },
+      {
+         "B": 48,
+         "C": "connect"
+      },
+      {
+         "B": 49,
+         "C": "serverproxy"
+      },
+      {
+         "B": 50,
+         "C": "writefile"
+      },
+      {
+         "B": 51,
+         "C": "listconfig"
+      },
+      {
+         "B": 52,
+         "C": "process"
+      },
+      {
+         "B": 53,
+         "C": "getpass"
+      },
+      {
+         "B": 54,
+         "C": "encryptfile"
+      },
+      {
+         "B": 55,
+         "C": "getinfo"
+      },
+      {
+         "B": 56,
+         "C": "mysql"
+      },
+      {
+         "B": 57,
+         "C": "proxy"
+      },
+      {
+         "B": 58,
+         "C": "protocol"
+      },
+      {
+         "B": 59,
+         "C": "getid"
+      },
+      {
+         "B": 60,
+         "C": "account"
+      },
+      {
+         "B": 61,
+         "C": "sizeof"
+      },
+      {
+         "B": 62,
+         "C": "fillgrid"
+      },
+      {
+         "B": 63,
+         "C": "decrypt"
+      },
+      {
+         "B": 64,
+         "C": "getlog"
+      },
+      {
+         "B": 65,
+         "C": "filetype"
+      }
+   ],
+   "h": [
+      {
+         "B": 1,
+         "C": "wordcounter"
+      },
+      {
+         "B": 2,
+         "C": "exportconfigpackage"
+      },
+      {
+         "B": 3,
+         "C": "changepassword"
+      },
+      {
+         "B": 4,
+         "C": "createfilethread"
+      },
+      {
+         "B": 5,
+         "C": "disconnectserver"
+      },
+      {
+         "B": 6,
+         "C": "removeoldcookie"
+      },
+      {
+         "B": 7,
+         "C": "includedirectory"
+      },
+      {
+         "B": 8,
+         "C": "getdatapassword"
+      },
+      {
+         "B": 9,
+         "C": "loadregisterlist"
+      },
+      {
+         "B": 10,
+         "C": "respondertimeout"
+      },
+      {
+         "B": 11,
+         "C": "ghostfilesystem"
+      },
+      {
+         "B": 12,
+         "C": "systemportkey"
+      },
+      {
+         "B": 13,
+         "C": "createnewsocket"
+      },
+      {
+         "B": 14,
+         "C": "sizeofhexagon"
+      },
+      {
+         "B": 15,
+         "C": "batchallfiles"
+      },
+      {
+         "B": 16,
+         "C": "systemgridtype"
+      },
+      {
+         "B": 17,
+         "C": "getmysqldomain"
+      },
+      {
+         "B": 18,
+         "C": "changeusername"
+      },
+      {
+         "B": 19,
+         "C": "tempdatapass"
+      },
+      {
+         "B": 20,
+         "C": "create3axisvector"
+      },
+      {
+         "B": 21,
+         "C": "encodenewfolder"
+      },
+      {
+         "B": 22,
+         "C": "eventlistdir"
+      },
+      {
+         "B": 23,
+         "C": "sendintelpass"
+      },
+      {
+         "B": 24,
+         "C": "getxmlprotocol"
+      },
+      {
+         "B": 25,
+         "C": "joinnetworkclient"
+      },
+      {
+         "B": 26,
+         "C": "rootcookieset"
+      },
+      {
+         "B": 27,
+         "C": "createnewpackage"
+      },
+      {
+         "B": 28,
+         "C": "unpacktmpfile"
+      },
+      {
+         "B": 29,
+         "C": "generatecodepack"
+      },
+      {
+         "B": 30,
+         "C": "httpbuffersize"
+      },
+      {
+         "B": 31,
+         "C": "patcheventlog"
+      },
+      {
+         "B": 32,
+         "C": "encryptunpackedbatch"
+      },
+      {
+         "B": 33,
+         "C": "channelsetpackage"
+      },
+      {
+         "B": 34,
+         "C": "destroybatch"
+      },
+      {
+         "B": 35,
+         "C": "deleteallids"
+      },
+      {
+         "B": 36,
+         "C": "hostnewserver"
+      },
+      {
+         "B": 37,
+         "C": "removenewcookie"
+      },
+      {
+         "B": 38,
+         "C": "statusofprocess"
+      },
+      {
+         "B": 39,
+         "C": "setnewproxy"
+      },
+      {
+         "B": 40,
+         "C": "loadloggedpassword"
+      },
+      {
+         "B": 41,
+         "C": "callmodule"
+      },
+      {
+         "B": 42,
+         "C": "create2axisvector"
+      },
+      {
+         "B": 43,
+         "C": "blockthreat"
+      },
+      {
+         "B": 44,
+         "C": "dodecahedron"
+      },
+      {
+         "B": 45,
+         "C": "emitconfiglist"
+      },
+      {
+         "B": 46,
+         "C": "fileexpresslog"
+      },
+      {
+         "B": 47,
+         "C": "uploaduserstats"
+      },
+      {
+         "B": 48,
+         "C": "bufferpingset"
+      },
+      {
+         "B": 49,
+         "C": "getfirewallchannel"
+      },
+      {
+         "B": 50,
+         "C": "getpartoffile"
+      },
+      {
+         "B": 51,
+         "C": "mergesocket"
+      },
+      {
+         "B": 52,
+         "C": "decryptdatabatch"
+      },
+      {
+         "B": 53,
+         "C": "checkhttptype"
+      },
+      {
+         "B": 54,
+         "C": "disconnectchannel"
+      }
+   ]
+}
