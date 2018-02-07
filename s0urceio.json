@@ -2,7 +2,7 @@
    "e": [
       {
          "B": 0,
-         "C": "idontknow"
+         "C": "cookies"
       },
       {
          "B": 1,
@@ -516,6 +516,10 @@
       }
    ],
    "h": [
+      {
+         "B": 0,
+         "C": "loadaltevent"
+      },
       {
          "B": 1,
          "C": "wordcounter"
